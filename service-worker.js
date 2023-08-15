@@ -13,7 +13,7 @@
 // limitations under the License.
 
 const welcomePage = "sidepanels/welcome-sp.html"
-const mainPage = "sidepanels/main-sp.html"
+const mainPage = "sidepanels/clients/build/index.html"
 
 // Allows users to open the side panel by clicking on the action toolbar icon
 chrome.sidePanel
