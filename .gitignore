@@ -1,2 +1,7 @@
+### IDE setting file
+.idea
+.vscode
+
+### F/E exclude file
 sidepanels/clients/node_modules
 sidepanels/clients/build
